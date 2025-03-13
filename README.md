@@ -2,7 +2,12 @@
 
 🚀 About me 
 
-I've loved computers and video games ever since I was a kid. I am a motivated computer science student at the University of Illinois Chicago with a strong foundation in programming, data structures, and algorithm design. Experienced in C, C++, Javascript, and Python, with hands-on proficiency in debugging, system profiling, and memory management. Skilled in collaborative software development, problem-solving, and producing efficient, scalable code. Passionate about leveraging technology to build innovative solutions, with coursework and projects spanning linked data structures, file handling, and graph algorithms.
+Hey! I’m a Computer Science student at UIC who loves tackling problems with code 💻. Whether it's C, C++, Python, or JavaScript, I enjoy diving deep into algorithms, data structures, and system optimization 🚀.
+
+Right now, I’m working on cool projects like an AI-powered mental health chatbot 🧠💬 and a Multi-Language Quran App 📖🌍. I’m always up for a challenge and enjoy collaborating with others to create innovative solutions!
+
+Let’s build something awesome together! 🔧👾
+
 
 🚧 Projects
 
