@@ -1,15 +1,17 @@
 #Sami Fariz
 
 🚀 About me 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Hey! I’m a Computer Science student at UIC who loves tackling problems with code 💻. Whether it's C, C++, Python, or JavaScript, I enjoy diving deep into algorithms, data structures, and system optimization 🚀.
 
 Right now, I’m working on cool projects like an AI-powered mental health chatbot 🧠💬 and a Multi-Language Quran App 📖🌍. I’m always up for a challenge and enjoy collaborating with others to create innovative solutions!
 
 Let’s build something awesome together! 🔧👾
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 🚧 Projects
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🕌 Islamic Web App – Prayer, Dhikr & Quran
 A beautifully designed, responsive web application that brings essential Islamic features to your fingertips.
