@@ -76,6 +76,8 @@ Access the complete Quran in Arabic with an elegant reading experience 📚
 
 
 
+
+
 Currently Working On:
 
 🧠 AI-Powered Mental Health Chatbot
