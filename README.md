@@ -19,13 +19,8 @@ A responsive web application that brings essential Islamic features to your fing
 
 🕋 Prayer Times ☪️
 
-✅ Displays the five daily prayer times (Fajr, Dhuhr, Asr, Maghrib, Isha)
-
-✅ Auto-detects user location for accurate local prayer times 📍
-
-✅ Countdown timer to the next prayer ⏳
-
-✅ Reliable Aladhan API for accurate calculations 🌍
+✅ Displays the five daily prayer times (Fajr, Dhuhr, Asr, Maghrib, Isha)                                          ✅ Auto-detects user location for accurate local prayer times 📍      
+✅ Countdown timer to the next prayer ⏳                                                                           ✅ Reliable Aladhan API for accurate calculations 🌍
 
 ✅ Flippable prayer cards with inspirational Quranic quotes on the back 📜
 
@@ -35,48 +30,34 @@ A responsive web application that brings essential Islamic features to your fing
 
 🌿 A collection of daily Islamic remembrances for spiritual well-being 
 
-🌅 Morning Dhikr (Adhkar As-Sabah) 
+🌅 Morning Dhikr (Adhkar As-Sabah)                                                                               🌙 Evening Dhikr (Adhkar Al-Masaa) 
 
-🌙 Evening Dhikr (Adhkar Al-Masaa) 
-
-🙏 After Prayer Supplications 
-
-😴 Before Sleep Adhkar 
+🙏 After Prayer Supplications                                                                                    😴 Before Sleep Adhkar 
 
 ✨ Flippable Arabic dhikr cards with translations 
 
 
 📖 Quran Reader
 
-📚 Access the complete Quran in Arabic with an elegant reading experience 
+📚 Access the complete Quran in Arabic with an elegant reading experience                                        📜 Dropdown menu to select any of the 114 Surahs 
 
-📜 Dropdown menu to select any of the 114 Surahs 
-
-🖋️ Displays Arabic text in Uthmani script 
-
-🚀 Smooth scrolling & optimized loading for a seamless experience 
+🚀 Smooth scrolling & optimized loading for a seamless experience                                                🖋️ Displays Arabic text in Uthmani script 
 
 
 🤖📍 Technical Features:
 
-📱🖥️ Fully responsive – works on mobile & desktop 
+📱🖥️ Fully responsive – works on mobile & desktop                                                                🛠️ Fallback systems for missing features 
 
-🛠️ Fallback systems for missing features 
+⚠️ Error handling for API calls & location services                                                               🎨 Modern UI with interactive elements 
 
-⚠️ Error handling for API calls & location services 
-
-🎨 Modern UI with interactive elements 
 
 
 📡 APIs Used:
 
-🕌 Aladhan API – Prayer times & calculation methods
+🕌 Aladhan API – Prayer times & calculation methods                                                                📖 Alquran Cloud API – Quran content
 
-📖 Alquran Cloud API – Quran content
+🌍 Nominatim API – Reverse geocoding for location services                                                         📌 IP Geolocation API – Backup for location detection
 
-🌍 Nominatim API – Reverse geocoding for location services
-
-📌 IP Geolocation API – Backup for location detection
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
