@@ -7,7 +7,7 @@ Hey! I’m a Computer Science student at UIC who loves tackling problems with co
 Right now, I’m working on cool projects like an AI-powered mental health chatbot 🧠💬 and a Multi-Language Quran App 📖🌍. I’m always up for a challenge and enjoy collaborating with others to create innovative solutions!
 
 Let’s build something awesome together! 🔧👾
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🚧 Projects
 
@@ -80,7 +80,7 @@ Access the complete Quran in Arabic with an elegant reading experience 📚
 📌 IP Geolocation API – Backup for location detection
 
 
-
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 
 Currently Working On:
