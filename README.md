@@ -33,43 +33,39 @@ A responsive web application that brings essential Islamic features to your fing
 
 🤲 Dhikr & Supplications
 
-A collection of daily Islamic remembrances for spiritual well-being 🌿
+🌿 A collection of daily Islamic remembrances for spiritual well-being 
 
-💠 Morning Dhikr (Adhkar As-Sabah) 🌅
+🌅 Morning Dhikr (Adhkar As-Sabah) 
 
-💠 Evening Dhikr (Adhkar Al-Masaa) 🌙
+🌙 Evening Dhikr (Adhkar Al-Masaa) 
 
-💠 After Prayer Supplications 🙏
+🙏 After Prayer Supplications 
 
-💠 Before Sleep Adhkar 😴
+😴 Before Sleep Adhkar 
 
-✨ Flippable Arabic dhikr cards with translations 📖
+✨ Flippable Arabic dhikr cards with translations 
 
 
 📖 Quran Reader
 
-Access the complete Quran in Arabic with an elegant reading experience 📚
+📚 Access the complete Quran in Arabic with an elegant reading experience 
 
-🔹 Dropdown menu to select any of the 114 Surahs 📜
+📜 Dropdown menu to select any of the 114 Surahs 
 
-🔹 Displays Arabic text in Uthmani script 🖋️
+🖋️ Displays Arabic text in Uthmani script 
 
-🔹 Shows ayah numbers in Arabic numerals 🔢
-
-🔹 Bismillah included (except in Surah At-Tawbah) 🌟
-
-🔹 Smooth scrolling & optimized loading for a seamless experience 🚀
+🚀 Smooth scrolling & optimized loading for a seamless experience 
 
 
-💻📍 Technical Features:
+🤖📍 Technical Features:
 
-🔹 Fully responsive – works on mobile & desktop 📱💻
+📱🖥️ Fully responsive – works on mobile & desktop 
 
-🔹 Fallback systems for missing features 🛠️
+🛠️ Fallback systems for missing features 
 
-🔹 Error handling for API calls & location services ⚠️
+⚠️ Error handling for API calls & location services 
 
-🔹 Modern UI with interactive elements 🎨
+🎨 Modern UI with interactive elements 
 
 
 📡 APIs Used:
