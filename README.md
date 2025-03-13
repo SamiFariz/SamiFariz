@@ -13,7 +13,7 @@ Let’s build something awesome together! 🔧👾
 🚧 Projects
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🕌 Islamic Web App – Prayer, Dhikr & Quran
+🕌 Islamic Web App – Prayer, Dhikr & Quran (https://www.dhikrconnect.com)
 A beautifully designed, responsive web application that brings essential Islamic features to your fingertips.
 
 🕋 Prayer Times ☪️
