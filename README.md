@@ -17,6 +17,7 @@ Let’s build something awesome together! 🔧👾
 
 A responsive web application that brings essential Islamic features to your fingertips.
 
+
 🕋 Prayer Times ☪️
 
 ✅ Displays the five daily prayer times (Fajr, Dhuhr, Asr, Maghrib, Isha)  
@@ -28,6 +29,7 @@ A responsive web application that brings essential Islamic features to your fing
 ✅ Reliable Aladhan API for accurate calculations 🌍
 
 ✅ Flippable prayer cards with inspirational Quranic quotes on the back 📜
+
 
 
 
@@ -46,6 +48,7 @@ A responsive web application that brings essential Islamic features to your fing
 ✨ Flippable Arabic dhikr cards with translations 
 
 
+
 📖 Quran Reader
 
 📚 Access the complete Quran in Arabic with an elegant reading experience                                        
@@ -57,6 +60,7 @@ A responsive web application that brings essential Islamic features to your fing
 🖋️ Displays Arabic text in Uthmani script 
 
 
+
 🤖📍 Technical Features:
 
 📱🖥️ Fully responsive – works on mobile & desktop                                                                
@@ -66,6 +70,7 @@ A responsive web application that brings essential Islamic features to your fing
 ⚠️ Error handling for API calls & location services                                                               
 
 🎨 Modern UI with interactive elements 
+
 
 
 
