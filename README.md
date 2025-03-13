@@ -86,7 +86,7 @@ Access the complete Quran in Arabic with an elegant reading experience 📚
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 
-Currently Working On:
+👷 Currently Working On:
 
 🧠 AI-Powered Mental Health Chatbot
 An intelligent, empathetic chatbot designed to provide mental health support and guided conversations for users in need. This AI-powered assistant leverages Natural Language Processing (NLP) to offer helpful resources, mood tracking, and personalized recommendations.
