@@ -19,8 +19,13 @@ A responsive web application that brings essential Islamic features to your fing
 
 🕋 Prayer Times ☪️
 
-✅ Displays the five daily prayer times (Fajr, Dhuhr, Asr, Maghrib, Isha)                                          ✅ Auto-detects user location for accurate local prayer times 📍      
-✅ Countdown timer to the next prayer ⏳                                                                           ✅ Reliable Aladhan API for accurate calculations 🌍
+✅ Displays the five daily prayer times (Fajr, Dhuhr, Asr, Maghrib, Isha)  
+
+✅ Auto-detects user location for accurate local prayer times 📍    
+
+✅ Countdown timer to the next prayer ⏳               
+
+✅ Reliable Aladhan API for accurate calculations 🌍
 
 ✅ Flippable prayer cards with inspirational Quranic quotes on the back 📜
 
@@ -30,34 +35,49 @@ A responsive web application that brings essential Islamic features to your fing
 
 🌿 A collection of daily Islamic remembrances for spiritual well-being 
 
-🌅 Morning Dhikr (Adhkar As-Sabah)                                                                               🌙 Evening Dhikr (Adhkar Al-Masaa) 
+🌅 Morning Dhikr (Adhkar As-Sabah)                                                                               
 
-🙏 After Prayer Supplications                                                                                    😴 Before Sleep Adhkar 
+🌙 Evening Dhikr (Adhkar Al-Masaa) 
+
+🙏 After Prayer Supplications                                                                                    
+
+😴 Before Sleep Adhkar 
 
 ✨ Flippable Arabic dhikr cards with translations 
 
 
 📖 Quran Reader
 
-📚 Access the complete Quran in Arabic with an elegant reading experience                                        📜 Dropdown menu to select any of the 114 Surahs 
+📚 Access the complete Quran in Arabic with an elegant reading experience                                        
 
-🚀 Smooth scrolling & optimized loading for a seamless experience                                                🖋️ Displays Arabic text in Uthmani script 
+📜 Dropdown menu to select any of the 114 Surahs 
+
+🚀 Smooth scrolling & optimized loading for a seamless experience                                                
+
+🖋️ Displays Arabic text in Uthmani script 
 
 
 🤖📍 Technical Features:
 
-📱🖥️ Fully responsive – works on mobile & desktop                                                                🛠️ Fallback systems for missing features 
+📱🖥️ Fully responsive – works on mobile & desktop                                                                
 
-⚠️ Error handling for API calls & location services                                                               🎨 Modern UI with interactive elements 
+🛠️ Fallback systems for missing features 
+
+⚠️ Error handling for API calls & location services                                                               
+
+🎨 Modern UI with interactive elements 
 
 
 
 📡 APIs Used:
 
-🕌 Aladhan API – Prayer times & calculation methods                                                                📖 Alquran Cloud API – Quran content
+🕌 Aladhan API – Prayer times & calculation methods                                                                
 
-🌍 Nominatim API – Reverse geocoding for location services                                                         📌 IP Geolocation API – Backup for location detection
+📖 Alquran Cloud API – Quran content
 
+🌍 Nominatim API – Reverse geocoding for location services                                                         
+
+📌 IP Geolocation API – Backup for location detection
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
